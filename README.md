@@ -14,3 +14,4 @@
     <img src="https://skillicons.dev/icons?i=githubactions,latex,arduino,cmake,swift,html,ai,gcp,cpp,c,python,mysql,r" />
   </a>
 </p>
+![Lucian's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciancj&theme=shadow_green&show_icons=true)

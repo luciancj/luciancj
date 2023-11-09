@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=githubactions,latex,arduino,cmake,swift,html,ai,gcp,cpp,c,python,mysql,r" />
+  </a>
+</p>
 <!--
 **luciancj/luciancj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -10,7 +10,7 @@
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions,latex,arduino,cmake,swift,html,ai,gcp,cpp,c,python,mysql,r" />
+    <img src="https://skillicons.dev/icons?i=githubactions,latex,arduino,cmake,swift,html,ai,ps,gcp,cpp,c,python,mysql,r" />
   </a>
 </p>
 <table>

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucian Cojocaru</h1>
-<h3 align="center">A passionate c++/python developer from Republic of Moldova 🇲🇩 </h3>
+<p align="center"> <img style="width: 20%;" src="https://github.com/luciancj/luciancj/assets/72004477/5c1a7cba-b97b-4e0e-8284-d9deeac995a5" alt="profilePic" /> </p>
+<h3 align="center">A passionate C++/Swift developer from Republic of Moldova 🇲🇩 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciancj&label=Profile%20views&color=0e75b6&style=flat" alt="luciancj" /> </p>
 <ul>
   <li>🔭 I’m currently immersed in developing an Integration Calculator—a sophisticated menu-driven C program tailored for numerical integration of diverse user-defined functions, boasting interactive and parameter modes for a seamless user experience.</li>

@@ -14,4 +14,33 @@
     <img src="https://skillicons.dev/icons?i=githubactions,latex,arduino,cmake,swift,html,ai,gcp,cpp,c,python,mysql,r" />
   </a>
 </p>
-![Lucian's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciancj&theme=shadow_green&show_icons=true)
+<div style="display: flex; justify-content: space-between;">
+    <picture>
+      <source
+        width="500"
+        srcset="https://github-readme-stats.vercel.app/api?username=luciancj&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        width="500"
+        srcset="https://github-readme-stats.vercel.app/api?username=luciancj&show_icons=true&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=lucian&show_icons=true" width="500" />
+    </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+      <source
+        width="400"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luciancj&layout=compact&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        width="400"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luciancj&layout=compact&show_icons=true&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=lucian&show_icons=true" width="400" />
+    </picture>
+
+</div>

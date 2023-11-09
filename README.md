@@ -6,7 +6,6 @@
   <li>🌱 I’m currently learning the MongoDB Java Developer Path, honing my skills in building contemporary Java applications with MongoDB. Additionally, I'm delving into the Reliable Google Cloud Infrastructure: Design and Process course, exploring aspects like user roles, microservice design, DevOps automation, and storage solutions.</li>
   <li>👯 I’m looking to collaborate on innovative projects, particularly an app that utilizes augmented reality to detect art posters and transforms them into dynamic, interactive videos—bringing artwork to life in a unique and engaging way.</li>
   <li>📫 How to reach me: <a href="mailto:lucian.private@icloud.com">lucian.private@icloud.com</a></li>
-  <li>😄 Pronouns: he/him</li>
 </ul>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">

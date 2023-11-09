@@ -3,9 +3,9 @@
 <h3 align="center">A passionate C++/Swift developer from Republic of Moldova 🇲🇩 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciancj&label=Profile%20views&color=0e75b6&style=flat" alt="luciancj" /> </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luciancj/luciancj/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luciancj/luciancj/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luciancj/luciancj/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
 <ul>
   <li>🔭 I’m currently immersed in developing an Integration Calculator—a sophisticated menu-driven C program tailored for numerical integration of diverse user-defined functions, boasting interactive and parameter modes for a seamless user experience.</li>

@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lucian Cojocaru</h1>
-<p align="center"> <img style="width: 30%;" src="https://github.com/luciancj/luciancj/assets/72004477/5c1a7cba-b97b-4e0e-8284-d9deeac995a5" alt="profilePic" /> </p>
 <h3 align="center">A passionate C++/Swift developer from Republic of Moldova 🇲🇩 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciancj&label=Profile%20views&color=0e75b6&style=flat" alt="luciancj" /> </p>
 <ul>

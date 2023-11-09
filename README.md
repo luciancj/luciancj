@@ -17,30 +17,30 @@
 <div style="display: flex; justify-content: space-between;">
     <picture>
       <source
-        width="500"
+        style="width: 50%;"
         srcset="https://github-readme-stats.vercel.app/api?username=luciancj&show_icons=true&theme=dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        width="500"
+        style="width: 50%;"
         srcset="https://github-readme-stats.vercel.app/api?username=luciancj&show_icons=true&theme=light"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=lucian&show_icons=true" width="500" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lucian&show_icons=true"/>
     </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
       <source
-        width="400"
+        style="width: 50%;"
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luciancj&layout=compact&show_icons=true&theme=dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        width="400"
+        style="width: 50%;"
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luciancj&layout=compact&show_icons=true&theme=light"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=lucian&show_icons=true" width="400" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lucian&show_icons=true"/>
     </picture>
 
 </div>

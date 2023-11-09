@@ -15,33 +15,23 @@
     <img src="https://skillicons.dev/icons?i=githubactions,latex,arduino,cmake,swift,html,ai,gcp,cpp,c,python,mysql,r" />
   </a>
 </p>
-<div style="display: flex; justify-content: space-between;">
-    <picture>
-      <source
-        style="width: 50%;"
-        srcset="https://github-readme-stats.vercel.app/api?username=luciancj&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        style="width: 50%;"
-        srcset="https://github-readme-stats.vercel.app/api?username=luciancj&show_icons=true&theme=light"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=lucian&show_icons=true"/>
-    </picture>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-      <source
-        style="width: 50%;"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luciancj&layout=compact&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        style="width: 50%;"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luciancj&layout=compact&show_icons=true&theme=light"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=lucian&show_icons=true"/>
-    </picture>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github-readme-stats.vercel.app/api?username=lucian&show_icons=true">
+        <img width="100%" align="right" src="https://github.com/luciancj/luciancj/assets/72004477/8711fe24-e105-455f-9f1c-e964851dd4d9" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github-readme-stats.vercel.app/api?username=lucian&show_icons=true">
+        <img width="100%" align="left" src="https://github-readme-stats.vercel.app/api?username=luciancj&show_icons=true&theme=shadow_green&bg_color=00000000&text_color=ffffff" />
+        <img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciancj&layout=compact&show_icons=true&theme=shadow_green&bg_color=00000000&text_color=ffffff" />
+        <img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-calculator&theme=shadow_green&bg_color=00000000&text_color=ffffff&show_owner=true" />
+        <img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Basics-of-Programming&theme=shadow_green&bg_color=00000000&text_color=ffffff&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-</div>
+
+

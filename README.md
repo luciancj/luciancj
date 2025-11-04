@@ -39,7 +39,7 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
 <summary><b>Professional Experience</b></summary>
 <br/>
 
-**Financial Operations Analyst Intern** @ VOIS  
+**Financial Operations Analyst Intern** @ _VOIS  
 *Budapest, Hungary | Jul 2024 - Sep 2024*
 
 - Supported invoice and payment processes ensuring accuracy and compliance

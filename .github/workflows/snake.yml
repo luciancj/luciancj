@@ -1,17 +1,16 @@
 name: Generate Snake
 
 on:
-  # run once a day
   schedule:
     - cron: "0 0 * * *"
-  # manual trigger
   workflow_dispatch:
-  # (optional) also run on pushes to main
-  push:
-    branches: ["main", "master"]
+  
+permissions:
+  contents: write
 
 jobs:
   build:
+    if: github.repository_owner == github.actor
     runs-on: ubuntu-latest
 
     steps:
@@ -28,5 +27,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

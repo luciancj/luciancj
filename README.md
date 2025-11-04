@@ -1,74 +1,175 @@
-<h1 align="center">Hi 👋, I'm Lucian Cojocaru</h1>
-<h3 align="center">A passionate C++/Swift developer from Republic of Moldova 🇲🇩</h3>
+<div align="center">
+
+# Lucian Cojocaru
+
+### Computer Science Engineering Student | C++ & Swift Developer
+
+[![Profile Views](https://komarev.com/ghpvc/?username=luciancj&label=Profile%20Views&color=00CC00&style=flat-square)](https://github.com/luciancj)
+[![Followers](https://img.shields.io/github/followers/luciancj?label=Followers&style=flat-square&color=00CC00)](https://github.com/luciancj?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/luciancj?label=Stars&style=flat-square&color=00CC00)](https://github.com/luciancj?tab=repositories)
+[![Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/luciancj&query=$.public_repos&label=Repositories&style=flat-square&color=00CC00)](https://github.com/luciancj?tab=repositories)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00CC00&center=true&vCenter=true&width=600&lines=GPU+Programming+%7C+HPC+%7C+Algorithms;C%2B%2B+%7C+Swift+%7C+Python+%7C+CUDA;Building+High-Performance+Applications)
+
+</div>
+
+## » About Me
+
+```yaml
+location: Budapest, Hungary
+education: Budapest University of Technology and Economics (BME)
+degree: Bachelor of Computer Science Engineering (2023 - 2027)
+specialization: GPU Programming, High-Performance Computing, Algorithms
+status: Currently developing an Integration Calculator in C
+languages: Romanian (native), English (C1), German (B1), Russian (A2)
+```
+
+<details open>
+<summary><b>Current Focus</b></summary>
+<br/>
+
+- **›** Developing an **Integration Calculator** — a sophisticated menu-driven C program for numerical integration with interactive and parameter-driven modes
+- **›** Expanding expertise in **NVIDIA CUDA C/C++** for accelerated computing and GPU programming
+- **›** Exploring **MongoDB** data modeling and modern Java application development
+- **›** Learning **Google Cloud Infrastructure** design patterns, microservices, and DevOps automation
+
+</details>
+
+<details>
+<summary><b>Professional Experience</b></summary>
+<br/>
+
+**Financial Operations Analyst Intern** @ VOIS  
+*Budapest, Hungary | Jul 2024 - Sep 2024*
+
+- › Supported invoice and payment processes ensuring accuracy and compliance
+- › Collaborated with cross-functional teams on P2P operations and financial reporting
+- › Gained proficiency in SAP, MS Excel, and enterprise financial systems
+
+</details>
+
+## » Technical Arsenal
+
+### Programming Languages
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,c,swift,python,html,css,git&theme=dark&perline=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,c,swift,python,html,css,git&theme=light&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,swift,python,html,css,git&perline=7" alt="Programming Languages" />
+</picture>
+</div>
+
+### Tools & Frameworks
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,cmake,latex,arduino,vscode&theme=dark&perline=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,cmake,latex,arduino,vscode&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,cmake,latex,arduino,vscode&perline=8" alt="Tools and Frameworks" />
+</picture>
+</div>
+
+### Cloud & Platforms
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gcp,githubactions,linux,apple,windows&theme=dark&perline=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gcp,githubactions,linux,apple,windows&theme=light&perline=5" />
+  <img src="https://skillicons.dev/icons?i=gcp,githubactions,linux,apple,windows&perline=5" alt="Cloud and Platforms" />
+</picture>
+</div>
+
+**Core Competencies:** Algorithms • Data Structures • GPU Programming • High-Performance Computing (HPC) • DevOps • Networking • Data Modeling • Hardware Security
+
+## » Certifications & Achievements
+
+<div align="center">
+
+| Certification | Issuer | Year |
+|---------------|--------|------|
+| CS50x: Introduction to Computer Science | Harvard University | 2025 |
+| Fundamentals of Accelerated Computing with CUDA C/C++ | NVIDIA | 2025 |
+| Code in Place | Stanford University | 2025 |
+| CCNA: Introduction to Networks | Cisco | 2025 |
+| Developing a Google SRE Culture | Coursera | 2023 |
+| MongoDB Data Modeling & Development | MongoDB | 2022-2023 |
+
+</div>
+
+<details>
+<summary><b>View All Certifications</b></summary>
+<br/>
+
+<div align="center">
+
+| Certification | Issuer | Date |
+|---------------|--------|------|
+| DevOps Essentials | Coursera | Sep 2023 |
+| Introduction to Agile Development and Scrum (with Honors) | Coursera | May 2023 |
+| Machine Learning with Python | Coursera | Nov 2020 |
+| Google Cloud Fundamentals: Core Infrastructure | Coursera | Oct 2020 |
+| Introduction to AI | Coursera | May 2020 |
+| Fundamentals of Graphic Design | Coursera | May 2020 |
+| Introduction to Programming in Swift 5 | Coursera | Apr 2020 |
+| Technical Support Fundamentals | Coursera | Apr 2020 |
+
+</div>
+
+</details>
+
+### Professional Badges
+
+<div align="center">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luciancj&label=Profile%20views&color=blueviolet&style=flat" alt="luciancj" />
-  <img src="https://img.shields.io/github/followers/luciancj?label=Followers&style=social" alt="followers" />
+<a href="https://www.credly.com/badges/8c0c51e1-2f72-4b4c-84ec-ab42878fb68b/public_url"><img src="xxx" alt="CCNA Introduction to Networks" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/448474d2-1b64-43e2-8b59-0dba15c874b0/public_url"><img src="xxx" alt="Machine Learning with Python" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/946717ae-e16b-4eb1-aebe-1924bca7a248/public_url"><img src="xxx" alt="Key Technology Foundations" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/ab0fc64e-276b-45cb-acb8-b5b67c434e76/public_url"><img src="xxx" alt="DevOps Essentials" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/c113f4b5-923e-43fa-9156-2e758a3e62d7/public_url"><img src="xxx" alt="Data Science Orientation" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/b5f508bc-17c3-4194-9486-46acaf6f725e/public_url"><img src="xxx" alt="Python for Data Science and AI" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/0ab1e9e3-755c-4fbd-878e-a946312e35e3/public_url"><img src="xxx" alt="Intel® Tiber™ Trust Authority" width="100" height="100"/></a>
 </p>
 
----
+</div>
 
-<ul>
-  <li>🔭 I’m currently immersed in developing an <strong>Integration Calculator</strong> — a sophisticated menu-driven C program tailored for numerical integration of diverse user-defined functions, boasting interactive and parameter modes for a seamless user experience.</li>
-  <li>🌱 I’m currently learning the <strong>MongoDB Java Developer Path</strong>, honing my skills in building contemporary Java applications with MongoDB. Additionally, I'm delving into the <strong>Reliable Google Cloud Infrastructure: Design and Process</strong> course, exploring aspects like user roles, microservice design, DevOps automation, and storage solutions.</li>
-  <li>👯 I’m looking to collaborate on innovative projects, particularly an app that utilizes augmented reality to detect art posters and transforms them into dynamic, interactive videos — bringing artwork to life in a unique and engaging way.</li>
-</ul>
+## » Featured Projects
 
----
+<div align="center">
 
-<h2 align="center">Languages and Tools</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,swift,python,mongodb,gcp,docker,cmake,githubactions,latex,arduino,html,ai,ps,mysql,r" />
-  </a>
-</p>
-
----
-
-<h2 align="center">GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luciancj&theme=onestar&no-frame=true&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-<h2 align="center">Contribution Snake</h2>
-
-<p align="center">
+<a href="https://github.com/luciancj/Integration-Calculator">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luciancj/luciancj/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luciancj/luciancj/output/snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/luciancj/luciancj/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=FFFFFF&icon_color=00CC00" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=000000&icon_color=00CC00" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=FFFFFF&icon_color=00CC00" alt="Integration Calculator" />
   </picture>
-</p>
+</a>
 
----
+</div>
 
-<h2 align="center">Featured Projects</h2>
+## » GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/luciancj/Integration-Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=tokyonight" alt="Integration Calculator" />
-  </a>
-</p>
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luciancj/luciancj/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luciancj/luciancj/output/snake.svg" />
+  <img width="100%" style="max-width: 100%; height: auto;" src="https://raw.githubusercontent.com/luciancj/luciancj/output/snake-dark.svg" alt="Contribution Snake Animation" />
+</picture>
 
-<h2 align="center">Connect with Me</h2>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucian-cojocaru/">
-    <img src="https://img.shields.io/badge/-Lucian%20Cojocaru-blue?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lucian.cj@gmail.com">
-    <img src="https://img.shields.io/badge/-lucian.cj@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" />
-  </a>
-</p>
+## » Connect
 
----
+<div align="center">
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00CC00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/luciancj/)
+[![Email](https://img.shields.io/badge/Email-00CC00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:lucian.private@icloud.com)
+[![GitHub](https://img.shields.io/badge/GitHub-00CC00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/luciancj)
+
+</div>
+
+<div align="center">
+  <sub>Built with 💚 by Lucian Cojocaru</sub>
+</div>

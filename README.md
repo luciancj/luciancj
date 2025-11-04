@@ -39,7 +39,7 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
 <summary><b>Professional Experience</b></summary>
 <br/>
 
-**Financial Operations Analyst Intern** @ _VOIS  
+**Financial Operations Analyst Intern** @ VOIS  
 *Budapest, Hungary | Jul 2024 - Sep 2024*
 
 - Supported invoice and payment processes ensuring accuracy and compliance
@@ -110,14 +110,14 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
 
 <div align="center">
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-<a href="https://www.credly.com/badges/8c0c51e1-2f72-4b4c-84ec-ab42878fb68b/public_url"><img src="https://github.com/user-attachments/assets/ee6fdbaf-9109-46ad-b7fa-9f28c2d33262" alt="CCNA Introduction to Networks" style="width: 80px; height: 80px; max-width: 100%;"/></a>
-<a href="https://www.credly.com/badges/448474d2-1b64-43e2-8b59-0dba15c874b0/public_url"><img src="https://github.com/user-attachments/assets/7d5c0f71-fefe-486b-a89c-8c792a9414c9" alt="Machine Learning with Python" style="width: 80px; height: 80px; max-width: 100%;"/></a>
-<a href="https://www.credly.com/badges/946717ae-e16b-4eb1-aebe-1924bca7a248/public_url"><img src="https://github.com/user-attachments/assets/b48c7356-c8e8-4d64-9a67-94cafec19df9" alt="Key Technology Foundations" style="width: 80px; height: 80px; max-width: 100%;"/></a>
-<a href="https://www.credly.com/badges/ab0fc64e-276b-45cb-acb8-b5b67c434e76/public_url"><img src="https://github.com/user-attachments/assets/26d13076-3792-4b6f-9f2d-56eadee5154e" alt="DevOps Essentials" style="width: 80px; height: 80px; max-width: 100%;"/></a>
-<a href="https://www.credly.com/badges/c113f4b5-923e-43fa-9156-2e758a3e62d7/public_url"><img src="https://github.com/user-attachments/assets/cabb0a20-8b2f-425a-8f25-d9e28420717f" alt="Data Science Orientation" style="width: 80px; height: 80px; max-width: 100%;"/></a>
-<a href="https://www.credly.com/badges/b5f508bc-17c3-4194-9486-46acaf6f725e/public_url"><img src="https://github.com/user-attachments/assets/9d01794e-faab-4fa1-ad0d-7488a17ad828" alt="Python for Data Science and AI" style="width: 80px; height: 80px; max-width: 100%;"/></a>
-<a href="https://www.credly.com/badges/0ab1e9e3-755c-4fbd-878e-a946312e35e3/public_url"><img src="https://github.com/user-attachments/assets/65eefbe1-8468-40b5-8817-574cfe3a5acf" alt="Intel® Tiber™ Trust Authority" style="width: 80px; height: 80px; max-width: 100%;"/></a>
+<p align="center">
+<a href="https://www.credly.com/badges/8c0c51e1-2f72-4b4c-84ec-ab42878fb68b/public_url"><img src="https://github.com/user-attachments/assets/ee6fdbaf-9109-46ad-b7fa-9f28c2d33262" alt="CCNA Introduction to Networks" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/448474d2-1b64-43e2-8b59-0dba15c874b0/public_url"><img src="https://github.com/user-attachments/assets/7d5c0f71-fefe-486b-a89c-8c792a9414c9" alt="Machine Learning with Python" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/946717ae-e16b-4eb1-aebe-1924bca7a248/public_url"><img src="https://github.com/user-attachments/assets/b48c7356-c8e8-4d64-9a67-94cafec19df9" alt="Key Technology Foundations" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/ab0fc64e-276b-45cb-acb8-b5b67c434e76/public_url"><img src="https://github.com/user-attachments/assets/26d13076-3792-4b6f-9f2d-56eadee5154e" alt="DevOps Essentials" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/0ab1e9e3-755c-4fbd-878e-a946312e35e3/public_url"><img src="https://github.com/user-attachments/assets/65eefbe1-8468-40b5-8817-574cfe3a5acf" alt="Intel® Tiber™ Trust Authority" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/c113f4b5-923e-43fa-9156-2e758a3e62d7/public_url"><img src="https://github.com/user-attachments/assets/cabb0a20-8b2f-425a-8f25-d9e28420717f" alt="Data Science Orientation" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/b5f508bc-17c3-4194-9486-46acaf6f725e/public_url"><img src="https://github.com/user-attachments/assets/9d01794e-faab-4fa1-ad0d-7488a17ad828" alt="Python for Data Science and AI" width="80" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 </div>
@@ -125,11 +125,7 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
 ## » Featured Projects
 
 <a href="https://github.com/luciancj/Integration-Calculator">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=FFFFFF&icon_color=00CC00" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=000000&icon_color=00CC00" />
-    <img style="width: 400px; max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=FFFFFF&icon_color=00CC00" alt="Integration Calculator" />
-  </picture>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=FFFFFF&icon_color=00CC00" alt="Integration Calculator" />
 </a>
 
 ## » GitHub Activity

@@ -35,7 +35,7 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
 
 </details>
 
-<details>
+<details open>
 <summary><b>Professional Experience</b></summary>
 <br/>
 
@@ -52,33 +52,21 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
 
 ### Programming Languages
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,c,swift,python,html,css,git&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,c,swift,python,html,css,git&theme=light" />
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,swift,python,html,css,git" alt="Programming Languages" />
-</picture>
-</div>
+</p>
 
 ### Tools & Frameworks
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,cmake,latex,arduino,vscode&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,cmake,latex,arduino,vscode&theme=light" />
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,cmake,latex,arduino,vscode" alt="Tools and Frameworks" />
-</picture>
-</div>
+</p>
 
 ### Cloud & Platforms
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gcp,githubactions,linux,apple,windows&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gcp,githubactions,linux,apple,windows&theme=light" />
+<p align="center">
   <img src="https://skillicons.dev/icons?i=gcp,githubactions,linux,apple,windows" alt="Cloud and Platforms" />
-</picture>
-</div>
+</p>
 
 **Core Competencies:** Algorithms • Data Structures • GPU Programming • High-Performance Computing (HPC) • DevOps • Networking • Data Modeling • Hardware Security
 
@@ -140,7 +128,7 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=FFFFFF&icon_color=00CC00" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=000000&icon_color=00CC00" />
-    <img width="100%" style="max-width: 500px;" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=FFFFFF&icon_color=00CC00" alt="Integration Calculator" />
+    <img width="100%" style="max-width: 450px;" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=FFFFFF&icon_color=00CC00" alt="Integration Calculator" />
   </picture>
 </a>
 

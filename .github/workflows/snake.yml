@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # runs every day
   workflow_dispatch:
 
 permissions:
@@ -14,18 +14,5 @@ jobs:
     if: github.repository_owner == github.actor
 
     steps:
-      - name: Generate snake SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: luciancj
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-
-      - name: Publish to GitHub Pages branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+      - name: Generate snake SVG and GIF
+        uses: Platane/snk@

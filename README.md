@@ -9,7 +9,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/luciancj?label=Stars&style=flat-square&color=00CC00)](https://github.com/luciancj?tab=repositories)
 [![Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/luciancj&query=$.public_repos&label=Repositories&style=flat-square&color=00CC00)](https://github.com/luciancj?tab=repositories)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00CC00&center=true&vCenter=true&width=600&lines=GPU+Programming+%7C+HPC+%7C+Algorithms;C%2B%2B+%7C+Swift+%7C+Python+%7C+CUDA;Building+High-Performance+Applications)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00CC00&center=true&vCenter=true&width=600&lines=GPU+Programming+%7C+HPC+%7C+Algorithms;C%2B%2B+%7C+Swift+%7C+Python+%7C+CUDA;Building+High-Performance+Applications" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 
 </div>
 
@@ -128,7 +128,7 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=FFFFFF&icon_color=00CC00" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=000000&icon_color=00CC00" />
-    <img width="100%" style="max-width: 450px;" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=FFFFFF&icon_color=00CC00" alt="Integration Calculator" />
+    <img width="100%" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=FFFFFF&icon_color=00CC00" alt="Integration Calculator" />
   </picture>
 </a>
 

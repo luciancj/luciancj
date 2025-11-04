@@ -123,13 +123,13 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
 <div align="center">
 
 <p align="center">
-<a href="https://www.credly.com/badges/8c0c51e1-2f72-4b4c-84ec-ab42878fb68b/public_url"><img src="xxx" alt="CCNA Introduction to Networks" width="100" height="100"/></a>
-<a href="https://www.credly.com/badges/448474d2-1b64-43e2-8b59-0dba15c874b0/public_url"><img src="xxx" alt="Machine Learning with Python" width="100" height="100"/></a>
-<a href="https://www.credly.com/badges/946717ae-e16b-4eb1-aebe-1924bca7a248/public_url"><img src="xxx" alt="Key Technology Foundations" width="100" height="100"/></a>
-<a href="https://www.credly.com/badges/ab0fc64e-276b-45cb-acb8-b5b67c434e76/public_url"><img src="xxx" alt="DevOps Essentials" width="100" height="100"/></a>
-<a href="https://www.credly.com/badges/c113f4b5-923e-43fa-9156-2e758a3e62d7/public_url"><img src="xxx" alt="Data Science Orientation" width="100" height="100"/></a>
-<a href="https://www.credly.com/badges/b5f508bc-17c3-4194-9486-46acaf6f725e/public_url"><img src="xxx" alt="Python for Data Science and AI" width="100" height="100"/></a>
-<a href="https://www.credly.com/badges/0ab1e9e3-755c-4fbd-878e-a946312e35e3/public_url"><img src="xxx" alt="Intel® Tiber™ Trust Authority" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/8c0c51e1-2f72-4b4c-84ec-ab42878fb68b/public_url"><img src="https://github.com/user-attachments/assets/ee6fdbaf-9109-46ad-b7fa-9f28c2d33262" alt="CCNA Introduction to Networks" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/448474d2-1b64-43e2-8b59-0dba15c874b0/public_url"><img src="https://github.com/user-attachments/assets/7d5c0f71-fefe-486b-a89c-8c792a9414c9" alt="Machine Learning with Python" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/946717ae-e16b-4eb1-aebe-1924bca7a248/public_url"><img src="https://github.com/user-attachments/assets/b48c7356-c8e8-4d64-9a67-94cafec19df9" alt="Key Technology Foundations" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/ab0fc64e-276b-45cb-acb8-b5b67c434e76/public_url"><img src="https://github.com/user-attachments/assets/26d13076-3792-4b6f-9f2d-56eadee5154e" alt="DevOps Essentials" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/c113f4b5-923e-43fa-9156-2e758a3e62d7/public_url"><img src="https://github.com/user-attachments/assets/cabb0a20-8b2f-425a-8f25-d9e28420717f" alt="Data Science Orientation" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/b5f508bc-17c3-4194-9486-46acaf6f725e/public_url"><img src="https://github.com/user-attachments/assets/9d01794e-faab-4fa1-ad0d-7488a17ad828" alt="Python for Data Science and AI" width="100" height="100"/></a>
+<a href="https://www.credly.com/badges/0ab1e9e3-755c-4fbd-878e-a946312e35e3/public_url"><img src="https://github.com/user-attachments/assets/65eefbe1-8468-40b5-8817-574cfe3a5acf" alt="Intel® Tiber™ Trust Authority" width="100" height="100"/></a>
 </p>
 
 </div>

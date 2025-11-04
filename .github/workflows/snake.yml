@@ -2,11 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day
+    - cron: "0 0 * * *"   # daily
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write  # required to push
 
 jobs:
   build:
@@ -14,5 +14,31 @@ jobs:
     if: github.repository_owner == github.actor
 
     steps:
-      - name: Generate snake SVG and GIF
-        uses: Platane/snk@
+      - name: Generate snake (SVG + GIF)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: luciancj
+          # one output per line; query params customize colors/palette
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # Publish by pushing a branch (creates it if missing)
+      - name: Publish to output branch
+        env:
+          PUSH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # or use a PAT: secrets.GH_PAT
+          REPO: ${{ github.repository }}
+        run: |
+          set -e
+          ls -la dist/
+          rm -rf publish && mkdir publish
+          cp dist/snake*.svg dist/snake.gif publish/
+          cd publish
+          git init
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b output
+          git add -A
+          git commit -m "Update snake assets"
+          git push --force "https://x-access-token:${PUSH_TOKEN}@github.com/${REPO}.git" output

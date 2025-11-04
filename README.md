@@ -128,7 +128,7 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=FFFFFF&icon_color=00CC00" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=000000&icon_color=00CC00" />
-    <img width="100%" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=FFFFFF&icon_color=00CC00" alt="Integration Calculator" />
+    <img style="width: 400px; max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=FFFFFF&icon_color=00CC00" alt="Integration Calculator" />
   </picture>
 </a>
 

@@ -128,6 +128,10 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=00CC00&icon_color=00CC00" alt="Integration Calculator" />
 </a>
 
+<a href="https://github.com/luciancj/Academic-Schedule">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Academic-Schedule&theme=transparent&hide_border=true&title_color=00CC00&text_color=00CC00&icon_color=00CC00" alt="Academic-Schedule" />
+</a>
+
 ## » GitHub Activity
 
 <div align="center">

@@ -2,14 +2,14 @@
 
 # Lucian Cojocaru
 
-### Computer Science Engineering Student | C++ & Swift Developer
+### Computer Science Engineering Student | C/C++ • Python • Systems & Cloud
 
 [![Profile Views](https://komarev.com/ghpvc/?username=luciancj&label=Profile%20Views&color=00CC00&style=flat-square)](https://github.com/luciancj)
 [![Followers](https://img.shields.io/github/followers/luciancj?label=Followers&style=flat-square&color=00CC00)](https://github.com/luciancj?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/luciancj?label=Stars&style=flat-square&color=00CC00)](https://github.com/luciancj?tab=repositories)
-[![Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/luciancj&query=$.public_repos&label=Repositories&style=flat-square&color=00CC00)](https://github.com/luciancj?tab=repositories)
+[![Website](https://img.shields.io/badge/Website-terminal.luciancj.dev-00CC00?style=flat-square)](https://terminal.luciancj.dev)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00CC00&center=true&vCenter=true&width=600&lines=GPU+Programming+%7C+HPC+%7C+Algorithms;C%2B%2B+%7C+Swift+%7C+Python+%7C+CUDA;Building+High-Performance+Applications" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00CC00&center=true&vCenter=true&width=600&lines=Systems+Programming+%7C+GPU+Computing+%7C+Cloud;C+%7C+C%2B%2B+%7C+Python+%7C+CUDA+%7C+Docker;Building+Reliable%2C+High-Performance+Software" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 
 </div>
 
@@ -19,8 +19,8 @@
 location: Budapest, Hungary
 education: Budapest University of Technology and Economics (BME)
 degree: Bachelor of Computer Science Engineering (2023 - 2027)
-specialization: GPU Programming, High-Performance Computing, Algorithms
-status: Currently developing an Integration Calculator in C
+focus: Systems Programming, GPU Computing, Cloud Infrastructure
+currently: Research Team Member @ BME — AI-assisted assessment platform
 languages: Romanian (native), English (C1), German (B1), Russian (A2)
 ```
 
@@ -28,23 +28,28 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
 <summary><b>Current Focus</b></summary>
 <br/>
 
-- Developing an **Integration Calculator** — a sophisticated menu-driven C program for numerical integration with interactive and parameter-driven modes
-- Expanding expertise in **NVIDIA CUDA C/C++** for accelerated computing and GPU programming
-- Exploring **MongoDB** data modeling and modern Java application development
-- Learning **Google Cloud Infrastructure** design patterns, microservices, and DevOps automation
+- **University research** — part of a BME team building a platform that generates student assessments and uses AI for personalised feedback; working on anti-cheating safeguards
+- **Open source** — contributing ARM64 Linux build fixes to [jellyfin-desktop](https://github.com/luciancj/jellyfin-desktop) (native aarch64 builds, CEF detection, bundled libmpv packaging)
+- **Atlas** — my self-hosted hybrid cloud: VPS edge + home server over a WireGuard tunnel, ~10 containerised services behind Nginx/Caddy, hardened with CrowdSec IPS
+- **GPU computing** — CUDA C/C++ (NVIDIA certified) and real-time inference: YOLOv11 object detection with Apple Metal (MPS) acceleration and FP16 optimisation
 
 </details>
 
 <details open>
-<summary><b>Professional Experience</b></summary>
+<summary><b>Experience</b></summary>
 <br/>
 
-**Financial Operations Analyst Intern** @ _VOIS  
-*Budapest, Hungary | Jul 2024 - Sep 2024*
+**Research Team Member** @ Budapest University of Technology and Economics (BME)
+*Budapest, Hungary | Jul 2026 - Present*
 
-- Supported invoice and payment processes ensuring accuracy and compliance
-- Collaborated with cross-functional teams on P2P operations and financial reporting
-- Gained proficiency in SAP, MS Excel, and enterprise financial systems
+- Building a platform that generates assessments for students and uses AI to give personalised feedback
+- Contributing anti-cheating safeguards that protect the integrity of assessments
+
+**Financial Operations Analyst Intern** @ _VOIS (Vodafone)
+*Budapest, Hungary | Jul 2024 - Oct 2024*
+
+- Processed and validated invoices and payment transactions ensuring compliance with local tax regulations
+- Streamlined P2P reporting workflows in Excel; collaborated across Finance, Procurement, and Legal using SAP
 
 </details>
 
@@ -53,13 +58,13 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
 ### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,swift,python,html,css,git" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,r,html,css,git" alt="Programming Languages" />
 </p>
 
 ### Tools & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,cmake,latex,arduino,vscode" alt="Tools and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,cmake,nginx,latex,vscode" alt="Tools and Frameworks" />
 </p>
 
 ### Cloud & Platforms
@@ -68,7 +73,7 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
   <img src="https://skillicons.dev/icons?i=gcp,githubactions,linux,apple,windows" alt="Cloud and Platforms" />
 </p>
 
-**Core Competencies:** Algorithms • Data Structures • GPU Programming • High-Performance Computing (HPC) • DevOps • Networking • Data Modeling • Hardware Security
+**Core Competencies:** Algorithms • Data Structures • GPU Programming (CUDA) • Systems Programming • DevOps & CI/CD • Networking (CCNA) • Data Modeling • Site Reliability
 
 ## » Certifications & Achievements
 
@@ -76,12 +81,12 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
+| Intel® Tiber™ Trust Authority | Intel | 2025 |
 | CS50x: Introduction to Computer Science | Harvard University | 2025 |
 | Fundamentals of Accelerated Computing with CUDA C/C++ | NVIDIA | 2025 |
 | Code in Place | Stanford University | 2025 |
 | CCNA: Introduction to Networks | Cisco | 2025 |
-| Developing a Google SRE Culture | Coursera | 2023 |
-| MongoDB Data Modeling & Development | MongoDB | 2022-2023 |
+| Developing a Google SRE Culture | Google Cloud | 2023 |
 
 </div>
 
@@ -93,14 +98,15 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
 
 | Certification | Issuer | Date |
 |---------------|--------|------|
-| DevOps Essentials | Coursera | Sep 2023 |
-| Introduction to Agile Development and Scrum (with Honors) | Coursera | May 2023 |
-| Machine Learning with Python | Coursera | Nov 2020 |
-| Google Cloud Fundamentals: Core Infrastructure | Coursera | Oct 2020 |
-| Introduction to AI | Coursera | May 2020 |
-| Fundamentals of Graphic Design | Coursera | May 2020 |
-| Introduction to Programming in Swift 5 | Coursera | Apr 2020 |
-| Technical Support Fundamentals | Coursera | Apr 2020 |
+| DevOps Essentials | IBM | Sep 2023 |
+| Introduction to Agile Development and Scrum (with Honors) | IBM | May 2023 |
+| MongoDB Data Modeling & Development | MongoDB | 2022-2023 |
+| Machine Learning with Python | IBM | Nov 2020 |
+| Google Cloud Fundamentals: Core Infrastructure | Google Cloud | Oct 2020 |
+| Introduction to AI | IBM | May 2020 |
+| Fundamentals of Graphic Design | CalArts | May 2020 |
+| Introduction to Programming in Swift 5 | LearnQuest | Apr 2020 |
+| Technical Support Fundamentals | Google | Apr 2020 |
 
 </div>
 
@@ -124,13 +130,19 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
 
 ## » Featured Projects
 
-<a href="https://github.com/luciancj/Integration-Calculator">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Integration-Calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=00CC00&icon_color=00CC00" alt="Integration Calculator" />
+<a href="https://github.com/luciancj/integration-calculator">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=integration-calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=00CC00&icon_color=00CC00" alt="Integration Calculator" />
 </a>
 
 <a href="https://github.com/luciancj/Academic-Schedule">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Academic-Schedule&theme=transparent&hide_border=true&title_color=00CC00&text_color=00CC00&icon_color=00CC00" alt="Academic-Schedule" />
 </a>
+
+**Integration Calculator** — C90 → C++98 → C++23 numerical integration engine with a hand-written recursive descent parser, five adaptive methods, wxWidgets GUI, and a CTest suite. Ported across three language standards to study how C++ idioms evolved.
+
+**Atlas — Hybrid Cloud Infrastructure** — VPS edge and home server linked over an encrypted WireGuard tunnel, hosting ~10 containerised services with Docker Compose, Nginx L4 stream proxying, Caddy, CrowdSec IPS, and GitOps-managed configuration.
+
+**jellyfin-desktop (open source)** — ARM64 Linux support for the Jellyfin desktop client: native aarch64 builds, CEF wrapper detection fixes, and bundled libmpv packaging.
 
 ## » GitHub Activity
 
@@ -150,7 +162,7 @@ languages: Romanian (native), English (C1), German (B1), Russian (A2)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00CC00?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/luciancj/)
 [![Email](https://img.shields.io/badge/Email-00CC00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucian.private@icloud.com)
-[![GitHub](https://img.shields.io/badge/GitHub-00CC00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luciancj)
+[![Website](https://img.shields.io/badge/Website-00CC00?style=for-the-badge&logo=safari&logoColor=white)](https://terminal.luciancj.dev)
 
 </div>
 

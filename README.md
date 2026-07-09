@@ -16,10 +16,10 @@
 ## About Me
 
 ```yaml
-location: Budapest, Hungary
+location:  Budapest, Hungary
 education: Budapest University of Technology and Economics (BME)
-degree: Bachelor of Computer Science Engineering (2023 - 2027)
-focus: Systems Programming, GPU Computing, Cloud Infrastructure
+degree:    Bachelor of Computer Science Engineering (2023 - 2027)
+focus:     Systems Programming, GPU Computing, Cloud Infrastructure
 currently: Research Team Member @ BME — AI-assisted assessment platform
 languages: Romanian (native), English (C1), German (B1), Russian (A2)
 ```

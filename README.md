@@ -138,19 +138,31 @@ _Budapest, Hungary | Jul 2024 - Oct 2024_
 
 ## Featured Projects
 
-<a href="https://github.com/luciancj/integration-calculator">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=integration-calculator&theme=transparent&hide_border=true&title_color=00CC00&text_color=00CC00&icon_color=00CC00" alt="Integration Calculator" />
-</a>
+### [Integration Calculator](https://github.com/luciancj/integration-calculator)
 
-<a href="https://github.com/luciancj/Academic-Schedule">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=luciancj&repo=Academic-Schedule&theme=transparent&hide_border=true&title_color=00CC00&text_color=00CC00&icon_color=00CC00" alt="Academic-Schedule" />
-</a>
+![C](https://img.shields.io/badge/C90-00CC00?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B98%20%E2%86%92%20C%2B%2B23-00CC00?style=flat-square&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-00CC00?style=flat-square&logo=cmake&logoColor=white)
+![wxWidgets](https://img.shields.io/badge/wxWidgets-00CC00?style=flat-square)
 
-**Integration Calculator** — C90 → C++98 → C++23 numerical integration engine with a hand-written recursive descent parser, five adaptive methods, wxWidgets GUI, and a CTest suite. Ported across three language standards to study how C++ idioms evolved.
+Numerical integration engine with a hand-written recursive descent parser, five adaptive methods, wxWidgets GUI, and a CTest suite. Ported across three language standards (C90 → C++98 → C++23) to study how C++ idioms evolved.
 
-**Atlas — Hybrid Cloud Infrastructure** — VPS edge and home server linked over an encrypted WireGuard tunnel, hosting ~10 containerised services with Docker Compose, Nginx L4 stream proxying, Caddy, CrowdSec IPS, and GitOps-managed configuration.
+### Atlas — Hybrid Cloud Infrastructure
 
-**jellyfin-desktop (open source)** — ARM64 Linux support for the Jellyfin desktop client: native aarch64 builds, CEF wrapper detection fixes, and bundled libmpv packaging.
+![Linux](https://img.shields.io/badge/Linux-00CC00?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00CC00?style=flat-square&logo=docker&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-00CC00?style=flat-square&logo=wireguard&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-00CC00?style=flat-square&logo=nginx&logoColor=white)
+
+VPS edge and home server linked over an encrypted WireGuard tunnel, hosting ~10 containerised services with Docker Compose, Nginx L4 stream proxying, Caddy, CrowdSec IPS, and GitOps-managed configuration.
+
+### [jellyfin-desktop](https://github.com/luciancj/jellyfin-desktop) (open source)
+
+![C++](https://img.shields.io/badge/C%2B%2B-00CC00?style=flat-square&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-00CC00?style=flat-square&logo=cmake&logoColor=white)
+![ARM64](https://img.shields.io/badge/ARM64-00CC00?style=flat-square&logo=arm&logoColor=white)
+
+ARM64 Linux support for the Jellyfin desktop client: native aarch64 builds, CEF wrapper detection fixes, and bundled libmpv packaging.
 
 ## GitHub Activity
 

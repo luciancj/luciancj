@@ -147,7 +147,7 @@ _Budapest, Hungary | Jul 2024 - Oct 2024_
 
 Numerical integration engine with a hand-written recursive descent parser, five adaptive methods, wxWidgets GUI, and a CTest suite. Ported across three language standards (C90 → C++98 → C++23) to study how C++ idioms evolved.
 
-### Atlas — Hybrid Cloud Infrastructure
+### Atlas — Hybrid Cloud Infrastructure (private)
 
 ![Linux](https://img.shields.io/badge/Linux-00CC00?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-00CC00?style=flat-square&logo=docker&logoColor=white)
